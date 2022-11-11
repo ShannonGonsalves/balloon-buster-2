@@ -107,7 +107,7 @@ function draw() {
 
   }
 
-if (frameCount>1000) {
+if (frameCount>200) {
   //red.destroyEach();
   gameState=END; 
 }
